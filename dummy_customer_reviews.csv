@@ -1,0 +1,11 @@
+Review_ID,Customer_Name,Review_Text,Sentiment
+1,Alice,Great product! Really loved it.,Positive
+2,Bob,Worst experience ever. Totally disappointed.,Negative
+3,Charlie,"It's okay, nothing special.",Neutral
+4,David,Amazing quality and fast delivery.,Positive
+5,Emma,Not worth the price. Poor quality.,Negative
+6,Frank,I love this! Will buy again.,Positive
+7,Grace,Terrible customer service.,Negative
+8,Hannah,"Just average, could be better.",Neutral
+9,Ian,Exceeded my expectations!,Positive
+10,Jack,"The product is fine, but shipping was slow.",Neutral
