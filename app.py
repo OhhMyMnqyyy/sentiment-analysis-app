@@ -1,6 +1,12 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
+import sys
+
+# Ensure the current directory is in the Python path
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 from sentiment_model import analyze_sentiment
 
 # Streamlit UI
