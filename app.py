@@ -7,7 +7,6 @@ import sys
 # Ensure the current directory is in the Python path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from sentiment_model import analyze_sentiment
 
 # Streamlit UI
 st.title("Customer Review Sentiment Analysis")
